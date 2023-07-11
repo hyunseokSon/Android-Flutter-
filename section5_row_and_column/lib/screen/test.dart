@@ -42,12 +42,14 @@ class TestScreen extends StatelessWidget {
                   )
                 ],
               ),
+
               /** 두 번째 화면 **/
               Container(
                 height: 50.0,
                 width: 50.0,
                 color: Colors.orange,
               ),
+
               /** 세 번째 화면 **/
               Row(
                 mainAxisAlignment: MainAxisAlignment.end,
@@ -74,6 +76,7 @@ class TestScreen extends StatelessWidget {
                   )
                 ],
               ),
+
               /** 4번째 화면 **/
               Container(
                 height: 50.0,
