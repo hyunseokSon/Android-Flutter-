@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:statefulwidget_before/screen/home_screen.dart';
+import 'package:section7_stateful_widget/screen/home_screen.dart';
 
 void main() {
   runApp(MaterialApp(
