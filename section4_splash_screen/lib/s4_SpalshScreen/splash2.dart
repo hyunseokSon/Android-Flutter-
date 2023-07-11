@@ -23,6 +23,7 @@ class HomeScreen extends StatelessWidget {
 
       // 정확한 색상 색깔 넣는 법 0xFF.. : FF면 투명도가 없다!
       backgroundColor: Color(0xFFF99231),
+
       // 텍스트 중간에 배치하기
       body: Column(
         // 주축 정렬 (가운데 정렬)
