@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:make_widget/screen/ButtonScreen.dart';
-import 'package:make_widget/screen/switch_screen.dart';
+import 'package:make_widget/screen/chapter1/ButtonScreen.dart';
+import 'package:make_widget/screen/chapter1/switch_screen.dart';
 
 void main() {
   runApp(
