@@ -64,7 +64,6 @@ class _BottomNavigationBarScreenState extends State<BottomNavigationBarScreen> w
         onTap: (index) {
           controller.animateTo(index);
         },
-
         items: TABS.map(
             (e) => BottomNavigationBarItem(
                 icon: Icon(
